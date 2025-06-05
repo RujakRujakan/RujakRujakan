@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&duration=3000&pause=1000&color=FFFFFF&center=true&width=1000&lines=Halo+%F0%9F%91%8B;Aku+MeFromIndonesia!;Tidak+ada+yang+spesial+disini.;Hanya+orang+yang+malas+ngoding...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&duration=4000&pause=1000&color=FFFFFF&center=true&width=1000&lines=Halo%F0%9F%91%8B;Aku+MeFromIndonesia!;Tidak+ada+yang+spesial+disini.;Hanya+orang+yang+malas+ngoding...)](https://git.io/typing-svg)
