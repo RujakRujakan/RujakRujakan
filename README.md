@@ -10,7 +10,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=RujakRujakan&show_icons=true&hide_border=true&theme=onedark" />
 
   <p>Halo. Namaku Ghani Najmut Tsaqib, siswa kelas 2 di <strong>SMK PGRI 05 Jember</strong>.<br>Ngoding bukan cuma soal ngetik, tapi gimana caranya gak perlu ngetik 2 kali.</p>
-  <p>Aku bukan master segala hal, tapi aku doyan nyobain semua.<br>Kalau bisa ngoding dengan cara yang lebih males tapi efektif, kenapa harus ribet?</p>
+  <p>Aku bukan bisa segala hal, tapi aku nak nyobain semua.<br>Kalau bisa ngoding dengan cara yang lebih males tapi efektif, kenapa harus ribet? 🤭</p>
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RujakRujakan&show_icons=true&hide_border=true&theme=onedark" />
 
