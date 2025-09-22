@@ -64,5 +64,5 @@
 </div>
 
 <div>
-  <a href="https://discord.com/users/1058949156347060234"><img src="https://lanyard.cnrad.dev/api/1058949156347060234?idleMessage=%E2%80%9CGood%20code%20is%20written%20once%2C%20great%20code%20is%20reused%20forever.%E2%80%9D" /></a>
+  <a href="https://discord.com/users/1395238138405847081"><img src="https://lanyard.cnrad.dev/api/1395238138405847081?idleMessage=%E2%80%9CGood%20code%20is%20written%20once%2C%20great%20code%20is%20reused%20forever.%E2%80%9D" /></a>
 </div>
